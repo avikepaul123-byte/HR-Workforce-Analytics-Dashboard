@@ -1,5 +1,4 @@
 # HR-Workforce-Analytics-Dashboard
-A PowerBI dashboard
 
 PowerBI & Business Intelligence Dashboard
 
